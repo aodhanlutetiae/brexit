@@ -1,7 +1,7 @@
-- title: "Data Journalism"
-  course_listing: "MCT 559 (MSc)"
-  org: "Cardiff University"
-  time_period: "2020"
+- title: Data Journalism
+  course_listing: MCT 559 (MSc)
+  org: Cardiff University
+  time_period: 2020
   homepage: https://github.com/aodhanlutetiae/data_journalism_jomec
   syllabus: https://github.com/aodhanlutetiae/data_journalism_jomec/blob/master/README.md
 
